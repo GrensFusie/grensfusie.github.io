@@ -76,9 +76,9 @@ df:
   post:
     strftime: "%d.%m.%Y"
     dayjs: "DD.MM.YYYY"
-  archives:
-    strftime: "%d.%m.%Y"
-    dayjs: "DD.MM.YYYY"
+  # archives: //hier kan je een unieke indeling geven voor het archief alleen ging deze overlappen want te lang
+  #  strftime: "%d.%m.%Y"
+  #  dayjs: "DD.MM.YYYY"
 
 # categories page
 categories:
