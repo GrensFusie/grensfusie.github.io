@@ -11,7 +11,7 @@ pin: true
 # media_subpath: '/posts/20180809' [media_subpath: /img/path/ When a post contains many images, it will be a time-consuming task to repeatedly define the path of the media resources. To solve this, we can define this path in the YAML block of the post. And then, the image source of Markdown can write the file name directly:![The flower](flower.png). The output will be:<img src="/img/path/flower.png" alt="The flower" />
 --- 
 
-Hee, grensloper! 
+Heej, grensloper! 
 
 Wanneer ik aan architectuur denk, denk ik niet meteen aan risicoreductie, samenhang of toegevoegde waarde. Waarschijnlijk ben ik niet de enige. Vaak associeer je architectuur met indrukwekkende gebouwen, strakke ontwerpen of een mooi ingericht kantoor. Maar in mijn werk zie ik architectuur als veel meer dan dat. Het is een cruciaal hulpmiddel om risico's te beperken, de samenhang te verbeteren en echte toegevoegde waarde te leveren. Ik ga je uitleggen waarom — en ik beloof je, het wordt geen saaie theoretische lezing.
 
